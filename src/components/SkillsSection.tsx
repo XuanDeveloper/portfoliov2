@@ -45,15 +45,15 @@ const SkillsSection = () => {
     },
     {
       title: t("backendTech"),
-      skills: ["Node.js", "Express", "Python", "Django", "RESTful APIs", "GraphQL"],
+      skills: ["Node.js", "Express", "Python", "RESTful APIs"],
     },
     {
       title: t("databaseTech"),
-      skills: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"],
+      skills: ["MongoDB", "MySQL", "Firebase"],
     },
     {
       title: t("otherTech"),
-      skills: ["Git", "Docker", "AWS", "CI/CD", "Figma", "Responsive Design", "TDD"],
+      skills: ["Git", "Docker", "N8N", "Figma", "Responsive Design"],
     },
   ];
 

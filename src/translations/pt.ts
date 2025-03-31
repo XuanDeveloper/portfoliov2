@@ -67,21 +67,21 @@ const ptTranslations: Record<TranslationKey, string> = {
   viewProject: "Ver Projeto",
   viewCode: "Ver Código",
   
-  project1Title: "Plataforma de E-commerce",
-  project1Description: "Uma loja online completa com gerenciamento de produtos, funcionalidade de carrinho e processamento de pagamentos.",
-  project1Tech: "React, Node.js, MongoDB",
+  project1Title: "echo-of-titans",
+  project1Description: "Echo of Titans é um jogo boss rush inspirado em Titan Souls, onde o jogador enfrenta chefões épicos em batalhas estratégicas e desafiadoras.",
+  project1Tech: "Godot 4.3, GDScript",
   
-  project2Title: "App de Gerenciamento de Tarefas",
-  project2Description: "Uma aplicação de produtividade para gerenciar tarefas, projetos e colaboração em equipe.",
-  project2Tech: "Vue.js, Express, PostgreSQL",
+  project2Title: "App de Gerenciamento de aluguel de jogos",
+  project2Description: "Uma aplicação para um sistema desenvolvido para lojistas que trabalham com o aluguel de mídias físicas de jogos. Ele permite o controle total do acervo de jogos.",
+  project2Tech: "React, typescript, shadcn-ui, tailwindcss",
   
   project3Title: "Website de Portfólio",
   project3Description: "Um site de portfólio responsivo exibindo trabalhos profissionais e habilidades.",
   project3Tech: "React, Tailwind CSS",
   
-  project4Title: "Sistema de Gestão de Aprendizagem",
+  project4Title: "MobaApp",
   project4Description: "Uma plataforma educacional para criar e gerenciar cursos online e o progresso dos alunos.",
-  project4Tech: "React, Django, MySQL",
+  project4Tech: "React Native, Laravel, mySql",
   
   // Contact Section
   contactTitle: "Entre em Contato",
