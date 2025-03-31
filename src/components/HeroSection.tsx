@@ -34,7 +34,7 @@ const HeroSection = () => {
             </span>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-display font-bold mb-6 text-balance">
               <span className="animated-text relative">
-                <span className="relative z-10">Juan Machado</span>
+                <span className="">Juan Machado</span>
                 <span className="absolute bottom-0 left-0 w-full h-1 bg-gradient-to-r from-primary to-secondary opacity-70"></span>
               </span>
             </h1>
